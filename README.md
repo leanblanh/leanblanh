@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @leanblanh
+- Dev typescript with NextJS
 - 👀 I’m interested in Front and Backend techologies.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects with node or vuejs
