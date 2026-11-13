@@ -1,37 +1,26 @@
-# Olá, eu sou Lean Blanh 👋
+### Hi, I'm Lean Blanh
 
-### **Cyber Lead | GRC, IT/OT Resilience & Security Architecture**
-`NIST CSF 2.0` • `ISO 27001` • `Purdue Model`
+I'm a Full-Stack Developer and Application Security Engineer. I build custom web applications, SaaS platforms, and backend automations with security engineered into the architecture from day one.
 
-Líder de Cibersegurança (*Hands-on*) e Especialista em GRC. Atuo no direcionamento estratégico de segurança da informação, resiliência em ambientes IT/OT, governança de IA e conformidade regulatória. Conecto a visão de negócios para tomada de decisão executiva (C-Level/Board) à estruturação técnica de arquitetura de segurança e automação.
+With over a decade of experience across software engineering and cybersecurity, I help founders and technical teams ship production-ready software fast so your codebase doesn't accumulate technical or security debt.
 
----
+#### Core Stack
+* **Languages:** TypeScript, JavaScript, Python, SQL (exploring Go)
+* **Frontend and Backend:** Next.js, React, Node.js, Prisma, Tailwind CSS
+* **Database and Cloud:** PostgreSQL, Docker, AWS, Linux (Ubuntu and Alpine), Terraform
 
-### 🛡️ Liderança Estratégica & Domínios de Atuação
+#### Security Engineering and AI Workflow
+* **AI-Accelerated Delivery with Guardrails:** I use AI coding workflows to speed up prototyping and implementation while enforcing strict manual architectural reviews, automated tests, and zero exposure of proprietary code or secrets to public models.
+* **Application Security:** OAuth2, OIDC, RBAC, JWT implementation, strict input validation, dependency verification against compromised packages, and OWASP Top 10 mitigation.
+* **Cloud and Container Hardening:** Least-privilege AWS IAM policies, minimal Alpine Linux containers, network isolation, and encrypted secret management.
+* **Automated Pipelines:** Static code analysis (SAST), dependency auditing, and automated security gates in continuous integration workflows.
 
-* **GRC & Resiliência Corporativa:** Estruturação de programas de segurança do zero, elaboração de Políticas de Segurança da Informação (PSI), playbooks de Resposta a Incidentes, BCP/DRP e frameworks de Governança de IA.
-* **Arquitetura de Segurança & Gestão de Terceiros (TPRM):** Gestão de risco de fornecedores, homologação tecnológica, análise de segurança em contratos e implementação de controles *Security by Design* (IAM/SoD).
-* **Operações & Mitigação de Ameaças:** Direcionamento de MSSP/SOC, integração de SIEM, ciclo de vida de gestão de vulnerabilidades e remediação de pentests.
-* **Governança & Investigação (Heritage Deloitte):** Experiência em investigações corporativas de alta complexidade (normas SOX, SEC e CVM), aplicando rigor técnico e abordagem *audit-proof* a controles internos.
+#### Selected Systems and Projects
+* **PodiumOS:** Open-source sports ranking and competition management platform built with Next.js, TypeScript, Tailwind CSS, and PostgreSQL.
+* **Automated Messaging Infrastructure:** High-deliverability email automation pipelines deployed on AWS SES and Listmonk in hardened Linux containers.
 
----
+#### How I Work
+I'm available for scoped freelance projects, MVP builds, API integrations, and security hardening of existing codebases. I work remotely with daily overlap across EST and CET time zones.
 
-### ⚙️ Automação de Segurança & AI
-
-Utilizo engenharia de software como alavanca para segurança, automatizando a monitoria de controles e fluxos de trabalho de risco:
-
-* **Stack de Automação:** Python, TypeScript, n8n.
-* **Engenharia de Segurança:** Desenvolvimento e integração de modelos customizados de *Agentic AI* aplicados a operações de cibersegurança e GRC.
-
----
-
-### 📜 Frameworks & Diretrizes
-
-* **Estratégia & Operação:** NIST CSF 2.0 | ISO/IEC 27001 | Modelo Purdue (ICS/OT) | ITIL
-* **Regulatório:** Diretrizes DORA & NIS2 | SOX | SEC | CVM
-
----
-
-### 🤝 Conecte-se comigo
-
-📬 Entre em contato via GitHub ou [LinkedIn](https://linkedin.com/in/leanblanh).
+* **LinkedIn:** [linkedin.com/in/leanblanh](https://www.linkedin.com/in/leanblanh)
+* **Inquiries:** Open to direct messages on LinkedIn for project scoping and technical consulting.
