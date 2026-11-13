@@ -5,8 +5,8 @@ I'm a Full-Stack Developer and Application Security Engineer. I build custom web
 With over a decade of experience across software engineering and cybersecurity, I help founders and technical teams ship production-ready software fast so your codebase doesn't accumulate technical or security debt.
 
 #### Core Stack
-* **Languages:** TypeScript, JavaScript, Python, SQL (exploring Go)
-* **Frontend and Backend:** Next.js, React, Node.js, Prisma, Tailwind CSS
+* **Languages:** TypeScript, JavaScript, Python, SQL (exploring Golang)
+* **Frontend and Backend:** Next.js, React, Nest.js, Node.js, Prisma, Tailwind CSS
 * **Database and Cloud:** PostgreSQL, Docker, AWS, Linux (Ubuntu and Alpine), Terraform
 
 #### Security Engineering and AI Workflow
